@@ -1,0 +1,32 @@
+{
+   "status":{
+      "code":0,
+      "msg":"[000000] Success"
+   },
+   "extendedStatus":[
+
+   ],
+   "sysprops":[
+
+   ],
+   "result":[
+      {
+         "partyId":"00000000006960",
+         "partyType":"Person",
+         "partyStatus":"Valid",
+         "fiIdent":"0001000000000000",
+         "personParty":{
+            "fullName":"TOBY CHIU",
+            "lastName":"CHIU",
+            "firstName":"TOBY",
+            "birthDt":"1943-11-30",
+            "motherMaidenName":"BARTON",
+            "homeOwenership":"Own",
+            "dependents":0,
+            "immigrationStatus":"Citizen",
+            "selfEmployedInd":"false",
+            "citizenshipCntry":"US"
+         }
+      }
+   ]
+}
